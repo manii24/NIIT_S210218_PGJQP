@@ -1,0 +1,204 @@
+Operators : Any operation you want to perform on variable like addition, subtraction, so these are known as operators:
+
+a=10
+b=20
+
+a+b
+
+Types of operators:
+1)Arithmetic Operator
+2)Assignment operator
+3)Arithmetic Assignment operator
+4)Relational/Comparison Operator
+5)Unary Operator
+6)Logical Operator
+
+==============================================================================
+1) Arithmetic Operator /Binary Operator:: +,- *, /, %(Modulo - which contains Remainder)
+int a=11
+int b=2
+
+a+b 
+a/b = 11/2 = 5 
+
+a%b =11/2 = 1
+
+==========================================================================
+2) Assignment Operator  =
+
+num1=10
+num2=20
+
+num1=num2
+num1=?
+num2=?
+
+
+num1=20, num2=20
+
+===============================================================
+3) Arithmetic Assignment Operator :+=, -=, *=, /=,%=
+a=10
+b=20
+
+c=a+b;
+
+a+=b,
+    a=a+b
+    a=30, b=20
+
+b+=a, b=b+a
+
+X=11, Y=3
+
+X%=Y;
+
+X=X%Y
+X=11%3 
+X=2, Y=3
+X=? Y=?
+
+======================================================================
+4) Relational/ Comparison Operator : >,<, >=,<=, ==, !=
+
+a=10
+
+a>10 : False
+a>=10 : True
+
+==: It checks whether 2 number are equal or not..
+
+a=10
+b=20
+
+a==b  False 
+
+a=50, b=50
+
+a==b : True
+
+a!=b , False
+
+= , ==:
+
+a=10
+
+a==10, It is checking value of a is equal to 10 or not,
+
+Eg : Password and confirm password should be same
+==================================================
+5) Unary Operator: It works only on 1 operand : ++ , --
+
+++ Increment operator : It will increment the value by 1
+-- Decrement Operator : It will decrement the value by 1
+
+a=5
+
+++a , a=6-- Pre Increment 
+a++ , Post Increment , a=6
+
+--a, Pre Decrement - 4
+a--, Post Decrement - 4
+
+=======================================================
+a=5
+
+b=++a 
+
+b=? a=?
+b=6, a=6
+
+b=a++;
+
+b=5, a=6;
+
+==============================================
+x=10
+
+y=--x  , y=9, x=9
+y1=++x , y1=11, x=11
+y2=x-- , y2=10, x=9
+
+a=10
+--a , a=9
+
+==================================================
+6) Logical Operator : AND (&&), OR(||), NoT (!)
+
+========================================================================
+
+Decision Making Constructs :
+
+-Multiple options have been given and you are opting 1 option based on requirement and accordingly it will process further.
+- Evaulate the condition , 
+
+num1=10
+
+whether num1>10 ? 
+
+Eg : Amazon / online website  /paytm/
+
+Debit Card
+Credit Card
+UPI
+Net banking
+
+How to Implement Decision Making :
+
+Simple If
+if(condition)
+{}
+=============================
+If else
+if(condition)
+{}
+else
+{}
+==============================
+Cascading /Ladder if else
+if(condition)
+{}
+else if(condition)
+{}
+else if (condition)
+{}
+else
+{}
+================================
+Nested If else
+Switch case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

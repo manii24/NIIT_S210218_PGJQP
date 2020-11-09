@@ -1,0 +1,144 @@
+We are going to develop a s/w :
+
+s/w: Step by step/set instruction which is used to perform as specific task .
+To communicate with the machine, we need a language 
+Machine understands only the binary language - 0 and 1
+
+Set of instruction are known as Programs .To write a Program, we need Programming Lanuage :
+
+C, C++, Java, Python, Ruby, COBOL...
+
+Different types of software :
+1) System s/w : OS : Windows, linux, ios, solaris, unix, android
+2) Application s/w : Ms office, anitivirus, Google chrome
+
+Apps : 
+Application : 
+
+--Desktop Application/Standalone Application: You are installing s/w in laptop/desktop . Eg : MS office 
+--Web Application : Application accessing through browser
+--MObile based application : Apps using in smart phone
+--Gaming application : PSP, 
+
+ Eg:
+Zoom app
+Antivirus
+quora
+WhatsApp
+Instagram
+Ola
+Zomato
+Facebook
+Ms Office
+Sanpchat
+google Play
+VLC Media Player
+=====================================================================================
+Why requirement of s/w is increased?
+--Now a days customer requirement has changed..
+Digitization : 
+
+s/w developer :
+
+===================================================================
+Generation of Programming Language :
+
+1) 1 GL(Low level Programming Language/ machine language) : Developers used to write code using 0 and 1.
+
+Adv : 
+1)Since is a machine level language only, so no translation is required by system.
+2)Execution of codes were very fast.
+
+
+2) 2 GL : using Mnuemonics to write the program
+
+ADD
+Mul
+CMP
+
+
+Adv : 
+1)Less prone to Errors 
+
+DisAdv :
+1) Developers has to remember all the commands.
+
+===============================================================================
+3) 3GL ( High level Language ) : To overcome the limitation of 1GL and 2 GL.We are giving the instruction using English written form.
+
+Adv:
+1) Less prone to errors
+2) Easily maintained
+3) S/w gets developed in less time
+
+Eg : C, c++, Java,
+
+4) 4GL(Ver high level Language) : Reduced the time,cost and effort used to develp the s/w:
+ Eg: SQl, Python
+
+5) 5GL(Artificial Intelligence):
+Eg: Mercury, Prolog
+
+======================================================================================================
+Interpreter V/s Compilor :
+
+1) Interpreter : Translate program statement one at a time.
+
+print("Hello")
+Eg: 
+
+2) compilor : Reads the whole program at once and then convert into machine code.
+C, c++, Java
+
+========================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,147 @@
+OOPs : Object Oriented Programming Language :
+OOPs is one of the Programming methodology to develop the s/w :
+Features :
+1) Class
+2)Objects
+3) Encapsulation
+4) Inheritance
+5) Polymorphism
+6)Abstraction
+
+==========================================================
+1) Objects : Any thing that exists in real world, is known as object.To check this,
+  1) state
+  2) behaviour
+  3) Identity
+
+Objects refers to real world entity,
+ 
+Eg: Car : 
+state- properties /attributes : mileage, price, color, brand, 
+behaviour : working  - drive 
+Identity : Number plate 
+
+
+2 cars of the same model, same brand :
+Two objects can have the same state and behaviour but never they will have the same identity.
+
+===============================================================
+Class : collection of objects of similar type.
+===============================================================
+
+Eg : All of you are students : 
+
+Student is an object :
+State  :  name, Reg_no, Stu_id,course_name, Gender,batch code
+Behaviour: attend sessions,appraisal attended, marks in appraisal
+Identity : Student Id, reg_no
+
+Class :collection of students of similar type : 
+
+================================================================
+Variables: It is a location in memory which store some value:
+
+age =12  //age is variable name and 12 is the value
+name="Nitin"
+contact_no =435465656
+
+Rules to declare a variable :
+1) Variable name should be meaningful.
+2) No space should be there in variable name and also it should not contain any special character(*,&,$) except underscore
+Eg: first name
+
+firstname
+firstName
+fName
+fname
+first_Name
+3) Varaible name can start with letter . It should not start wth digit.
+4) Variable name cant be a keyword, like class, cout, endl
+
+Data type:The type of value you are going to stored in a variable.
+
+age = numeric 
+age = 'a','h','&'
+
+first_name=345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
