@@ -1,0 +1,93 @@
+Loops : 
+for : If you were aware the no of Iteration 
+while 
+do while
+
+for(Intialization;condition/termination;inc/dec)
+{
+
+}
+=======================================
+while Loop:
+-Till the condition is true.
+- If not aware with no of iteration .
+
+Intialization
+while(condition)
+{
+inc/dec;
+}
+
+
+=============================================
+do while Loop: Irrespecive of the condition, atleast once your block of code executes, for the second iteration, it checks for condition, if condition is true, it will execute the loop else it will come out of loop
+
+do 
+{
+
+}while(condition);
+
+
+===============Dry Run for Reverse of a number ==================================
+num=389
+num>0,
+1)rem=389%10  , rem=9
+   rev=0*10+9, rev=9
+num=389/10, num=38
+
+2)38>0, rem=38%10 =8
+rev=9*10+8=98
+num=38/10, num=3
+
+3) 3>0, rem=3%10, rem=3
+rev=98*10+3=983
+3/10 =0
+4) 0>0: False
+
+
+===========================Arrays=========================================
+We want to take 5 numeric value from user,
+
+int num1,num2,num3,num4,num5;
+
+If this count increases to 100, 100 variables->
+
+
+If this count increases to 1000, 
+
+Arrays : Declare one variable and that will hold multiple values of the same data type.
+syntax :
+     int arr[10];
+      char name[50];
+	float salary[40];
+
+-Arrays indexing will start with 0 and it will go till n-1, where n is the total no of elements in an array
+-Arrays elements will be at consecutive memory location
+-Memory consumption is same in arrays as well as individual variable declaration.
+
+int num1,num2,num3;
+
+int arr[3];
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

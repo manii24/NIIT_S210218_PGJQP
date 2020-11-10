@@ -1,0 +1,119 @@
+Decision Making Constructs :
+
+Simple If
+If else
+Cascading/ladder if else
+Nested if else
+Switch case
+
+============================================
+Nested If else :if else under if/else
+
+if(condition) //outer condition is true 
+{
+   if(condition){} //inner condition
+   else {}	
+}
+else
+{
+   if(condition){}
+   else{}
+	
+}
+
+====================================================
+switch case:
+-> If multiple options are given and you need to select 1 option and accordingly it will process further.
+-> When we want to create a menu driven program
+
+Eg : ATM : 
+	-Cash Withdrawal
+	-change Pin
+	-Bank balance
+	-Cash deposit 
+======================================================
+ 1. Cash WithDrawal 2. Balance Enquiry 3. CASH Deposit
+
+
+Syntax: switch(variable value)
+	{
+         case 1: //logic  break;
+	 case 2: //logic  break;
+         default : //logic 
+	}
+//break is a keyword to terminate the condition or to come out from the scope of switch case.
+
+
+==============================================================================================
+Loops : If you want to repeat any set of instruction again and again, we can use the concept of loops instead of writing the same logic again and again.
+
+Eg : cout<<"Hello World";
+      cout<<"Hello World";
+      cout<<"Hello World";
+ cout<<"Hello World";
+ cout<<"Hello World";
+ cout<<"Hello World";
+ cout<<"Hello World";
+ cout<<"Hello World";
+ cout<<"Hello World";
+=======================================
+
+cout <<"Hello World \n Hello World Hello World Hello World Hello World..";
+
+3 types of Loops :
+1)for
+2)while
+3)do while
+
+======================================================
+1)for loop : If you are aware with the no of Iteration , in that cas we can use the for loop
+eg: we want to display "Hello World" 10 times,
+
+Syntax : for( 1; 2;3 )
+	{
+      //logic 
+         }
+for(Initialization; Condition/Termination ; inc/dec)
+{
+
+}
+
+for(int counter=0;counter<5;counter++)
+{
+cout<<"Hello World";    //Hello World Hello World
+}
+
+Dry Run : 
+
+1)counter=0;0<=100,counter=1
+2)counter =1;1<=5;
+3)counetr=2;2<=5
+4)counter=3;3<=5;
+5)counetr=4 4<=5
+5)counter=5, 5<5=> false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
