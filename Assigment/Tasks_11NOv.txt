@@ -1,0 +1,4 @@
+Task1: WAP to create a function that returns the value to the calling code.
+Task2 : WAP to create a function that will accept 2 parameters while invoking  a function.
+Task 3: Create a class Employee with 2 methods :accept() and display() showing relevant information of the employee. Display atleast 2 employee records.
+
