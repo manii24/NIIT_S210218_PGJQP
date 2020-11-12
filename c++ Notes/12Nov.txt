@@ -1,0 +1,23 @@
+Encapsulation :
+
+- Information hiding : When you develop a s/w, lots of information you want o hide from user because that information is not directly required by user.
+-Irrevalant information is being hide from user.
+-To be enclosed in a capsule
+-Wrapping up of data in a single unit
+
+class demo
+{
+//code 
+
+};
+
+Abstraction : Relevent information that we want to show it to user, is known as Abstraction..
+
+
+To achive encapsulation and abstraction, we will use Access specifiers
+
+-Private
+-Public
+-Protected
+
+================================================================
