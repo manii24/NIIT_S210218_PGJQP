@@ -1,0 +1,64 @@
+Ascii codes: Unique value given to each and every character in keyboard. 
+- These values are predefined
+
+A- 65
+B-66
+C- 67
+D-68
+
+A to Z- 65 to 90
+a-z- 97 to 122
+0 to 9 - 48 to 57
+0-48
+1-49
+
+*
+&
+^
+
+A-65
+a-97
+difference 97-65 =32
+
+B- 66  b-98 difference = 32
+
+if(ch>=65 and ch<=90)
+{
+ch=ch+32;
+}
+
+========================================================
+Typecasting : To convert one form (type) to another.
+2 types of typecasting : 
+	Implicit typecasting: Compilor automatic converts the type
+	Explicit Typecasting: YOu are supposed to explicit mentioned the type in which you want the change the                                type
+
+
+If you are trying to convert lower data type into higher, compilor automatic does it, It is known as Implicit typecasting'
+
+If you are trying to convert higher data type into lower, so explicitly you have to mention the data type, it is known as explicit typecasting,.
+
+===============================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
