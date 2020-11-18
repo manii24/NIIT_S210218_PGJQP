@@ -1,0 +1,114 @@
+Constructor :
+- A constructor is a special type of method 
+- When class name and method name are same,it is known as constructor.
+-constructors do not have return type but methods have return type.
+-Constructors are used to intialize the member variable of class or if you want to display any user defined message wheras Methods are used to perform logic on the variables
+-Constructors gets invoke as soon as you instantiate the class whereass methods has to invoke explicitly based on requirement.
+-Constructor has to be public whereas method can be private /public depending upon the requirement.
+-Constructors are responsible to allocate the memory.
+
+class demo
+{
+int num;
+public:demo()//Constructor
+{
+num=10;
+cout<<"Welome";
+
+}
+void accept()  //Method ..member function
+{
+++num;
+cout<<num;
+}
+};
+int main()
+{
+demo d1;//It will invoke constructor
+d1.accept();
+}
+==============================================================
+Constructors are responsible to allocate the memory
+Destructors are responsible to deallocate the memory.
+- It means if wa want to release the memory back into system, so that that memory an be used for some other purpose.
+
+~className()
+{
+
+}
+Types of constructor:
+1)Default constructor/no args construtor 
+2)Parametrized construtor
+
+
+
+class Calculator
+{
+int num;
+public : Calculator() //default constructor
+{}
+Calculator(int a) //parameterized constructor 
+{}
+}
+================================================
+
+constructor overloading : 
+
+Calculator()
+Caculator():--raise error as we cant declare same constructor signature twice
+Calculator(int a)
+
+Using the same constructor name but it will differenatiated with signature
+
+Signature : 
+a)No of parameters
+	Calculator()  -- 0 parameter
+	Calculator(int a)--1 parameter
+	Calculator(int a, float b)--2 parameter
+	
+b)Types of parameter
+        Calculator(int a)
+	Calculator(double g)
+	Caculator(char t)
+c)Sequence of parameters
+       Calculator(int a, char t)
+       Calculator(char a,int  t)
+	
+
+============================================================
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
