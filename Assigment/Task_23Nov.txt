@@ -1,0 +1,13 @@
+Todays tasks :
+
+1. Write a code to implement Encapsulation and Abstraction
+2. WAP to implement constructor , parameterized constructor and destructor
+3. WAp to implement function overloading
+4. WAP to implement operator overloading
+5. WAP to implement static variable and static function
+6. Explain difference in Constructor and method.
+7. Explain use of static keywords.
+8. Explain Acess specifiers .
+
+ 
+Fibinacci Series : 0 1 1 2 3 ..
