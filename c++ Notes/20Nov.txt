@@ -1,0 +1,24 @@
+constructor overloading: Using the same constructor same but differentiate it with signature
+
+Signature : NTS
+N- No of parameters
+T-types of parameter
+S-Sequence of parameter
+
+Note : Return type is not a part of signature in overloading
+
+Calc(){}
+Calc(int a){}
+=================================================================
+
+function/Method overloading : We are using the same method but we are differentaiting with function signature :
+- It does not depend upon return  type.
+
+Signature : NTS
+
+N- No of parameter
+T- Type of parameter
+S-Sequence of parameter
+
+=====================================================================
+Pointer : 

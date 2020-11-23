@@ -1,0 +1,92 @@
+Featutes of OOPs:
+1)Class
+2)Objects
+3)Encapsulation
+4)Abstraction
+5)Polymorphism
+6)Inheritance
+
+Polymorphism : Poly means many, morphism means forms
+
+function overloading
+
+sum(int a)
+sum()
+sum(int a, int b)
+
+=====================================================
+Coffe vending machine : Tea, coffee, soup..
+
+Polymorhism is of 2 types:
+Static polymorphism: the linking between object and member function is done at compile time. It is known as static/early binding/ compile time polymorphism.
+
+Eg : function overloading is static polymorphism
+
+obj.sum(10,20);//compile the code
+
+=====================================================================
+Dynamic Polymorphism: If the linking between object and member function is done at runtime, it is known as dynamic polymorphism/late binding/ runtime polymorphism 
+
+obj.sum(11,22);//runtime  
+
+================================================
+1) Submit all practise exercise till ch -7, c++
+2) Test on Monday of c++ - ch-1, ch-6
+3) On Mon, We will check your machine:
+
+C++ Concepts folder on GitHub
+
+1)Static variable
+2)Static function
+3) Friend class/Function
+4) structure 
+5)arrays of structures
+6) Encapsulation/Abstraction
+7)Constructor/Destructor
+8) Constructor overloading
+9)Function overloading 
+10)Scope Resolution operrator 
+
+2hrs with me - 4-5 hrs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
