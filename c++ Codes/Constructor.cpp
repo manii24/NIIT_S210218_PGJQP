@@ -10,10 +10,6 @@ class Calculator
        num2=0;
        cout<<"Welcome";
     }
-    Calculator()
-    {
-
-    }
     public: Calculator(int num)//parameterized constructor
     {
      cout<<num;
@@ -29,8 +25,8 @@ class Calculator
 };
 int main()
 {
-   /* Calculator c1;//Constructor
-    Calculator c2,c3;*/
+   Calculator c1;//Constructor
+    Calculator c2,c3;
     Calculator c1(10);
 
 }
