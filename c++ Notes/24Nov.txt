@@ -1,0 +1,27 @@
+Inheritance : We are deriving some properties from our parent.
+
+- Reusing the properties of parent into child.
+-  Child is able to access the features of parent 
+- No need to redeclare the same properties in the child.
+-Using old features + Adding some new features based on requirement 
+-You dont need to write the same code/login again and again.
+
+
+class A
+{
+public:int width, height;
+
+}
+class B :public A
+{
+//will be able to use the properties like width and height of class A. so no need to redeclare it again and again.
+
+}
+
+--do you update any application in smart phone
+
+Reason ? 
+
+But Is it completely new ?
+
+Old features + we have updated some new features 
