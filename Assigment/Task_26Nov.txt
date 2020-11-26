@@ -1,0 +1,50 @@
+c++ :
+1)Logic :
+-bAsic Programming
+-Decision Making
+-Loops
+-Arrays-1D and 2D
+-Pointers
+ 
+2) Oops concepts Practise
+-constructor
+-Destructor
+-Encapsulation
+-Abstraction
+-Constructor overloading
+-Function overloading
+-Operator overloading
+-Friend class/function
+-static variable/function
+-Inheritance- Single,Multilevel, Multiple, Constructor-Destructor calling
+-Call by value
+-Call by reference
+
+============================================================================
+3) Practise Exercise : Submit all of c++
+
+=======================================================================
+
+Task1 : Create a class Employee With attributes EmpId, EmpName, EmpSalary...and behaviour like accept employee details and display employee details.
+Create 2 subclasses of Employee named Programmer, HR, along with some additional features in derived class
+like bonus added in salary .
+
+======================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
