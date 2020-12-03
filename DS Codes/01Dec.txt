@@ -1,0 +1,61 @@
+
+Arrays :
+
+-Store element of the same data type
+- Static Data Structure: size is fixed at compile time only, you cannot grow/shrink size at runtime
+- Arrays elements are at contiguous memory location.
+
+ 20 -- 1011
+ 30 --1015
+
+Linked List-
+-Dynamic Data Structure in which you can grow the size at run time  and if you delete any element, memory will be released to the system so that size can be shrinked at runtime.
+- Memory can be allocate dynamically so contiguous memory location not required.
+
+-Single Linked List
+- Doubly Linked List
+- Circular Linked List
+
+====================Single Linked List=========================================
+
+10,20,30,40,50
+
+Node : Is divided into 2 parts:
+	- First part will contain data or element 
+	-Second part will hold the address of next element..
+
+
+
+class Node
+{
+int data;
+Node *next;
+
+}
+
+Doubly Linked List:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
