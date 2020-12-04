@@ -1,0 +1,25 @@
+Stack :
+- Is a data structure which stores the value in the form of LIFO(last in first out)
+10, 20, 30, 40 ,50 
+-Push operation- Insert any element in stack
+-Pop operation : Delete any element from stack
+top : pointer variable whcih will point to the last element in the stack.
+-Overflow :Stack is full, and we are trying to insert more element into it.
+-underflow :stack is empty, and you are trying to retrieve the element from stack,
+
+-Arrays  -static DS
+-Linked List- Dynamic DS
+
+Stack : either with Arrays or with Linked List..
+
+10 20 30 40 50
+
+
+
+
+
+
+
+
+
+
